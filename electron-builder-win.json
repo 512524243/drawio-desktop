@@ -28,12 +28,6 @@
           "arch": [
             "x64"
           ]
-      },
-      {
-          "target": "appx",
-          "arch": [
-            "x64"
-          ]
       }
     ]
   },
@@ -44,12 +38,6 @@
   },
   "portable": {
     "artifactName": "${productName}-${version}-portable.${ext}"
-  },
-  "appx": {
-    "displayName": "draw.io Diagrams",
-    "publisherDisplayName": "JGraph Ltd",
-    "identityName": "draw.io.draw.ioDiagrams",
-    "publisher": "CN=9E628CCB-BE04-4557-A5A8-81EC34B09733"
   },
   "fileAssociations": [
 	  {
